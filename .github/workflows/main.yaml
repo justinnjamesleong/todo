@@ -1,4 +1,4 @@
-name: todo workflow
+name: Todo Workflow
 
 on:
   push:
