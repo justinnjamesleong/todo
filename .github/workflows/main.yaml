@@ -3,7 +3,7 @@ name: Release and deploy Todo
 on:
   push:
     branches:
-    - release/*+
+    - release/+
 
 jobs:
   release-and-deploy:
